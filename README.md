@@ -1,4 +1,4 @@
-### This is a react web gui for using [cities api]([http://localhost:3000](https://github.com/hasanyurdakul/hasanyurdakul-express-cities-api)) project.
+### This is a react web gui for using [cities api](https://github.com/hasanyurdakul/hasanyurdakul-express-cities-api) project.
 ### Please also pull that project in order to use this app.
 
 ### Please run `npm start`
